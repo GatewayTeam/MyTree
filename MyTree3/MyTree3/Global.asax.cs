@@ -12,6 +12,7 @@ namespace MyTree3
     {
         protected void Application_Start()
         {
+            //this is test
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
