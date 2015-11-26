@@ -62,7 +62,7 @@ namespace MyTree3.Controllers
         }
 
         //
-        // GET: /Account/Register
+        // GET: /Account/Register  
         [AllowAnonymous]
         public ActionResult Register()
         {
